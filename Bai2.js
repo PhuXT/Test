@@ -49,6 +49,8 @@ class DrawAnyShape {
   }
 
   // Sua
+
+  
   
   const resultTest2 = new DrawAnyShape(6);
   console.log("resultTest2");
