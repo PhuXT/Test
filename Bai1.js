@@ -8,3 +8,7 @@ class Caculator {
     }
 }
 // sua
+
+function newFeature(params) {
+
+}
