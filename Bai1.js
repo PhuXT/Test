@@ -12,3 +12,4 @@ class Caculator {
 function newFeature(params) {
 
 }
+// ngoc them
