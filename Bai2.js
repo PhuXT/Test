@@ -50,7 +50,7 @@ class DrawAnyShape {
 
   // Sua
 
-  
+  // sua
   
   const resultTest2 = new DrawAnyShape(6);
   console.log("resultTest2");
